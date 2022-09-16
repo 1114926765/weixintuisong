@@ -1,0 +1,14 @@
+{
+"app_id":"wx9dbc0a880d67e19d",
+"app_secret":"cc6733a7726d06c5e7054a07145bf07c",
+"template_id":"wG1LOFqqDBtot91jaZaDmJuJKzeDR2GmMo9QYMqQPuk",
+"user":["o_uYE524o2ErngTf4OhU7Zm0V6j0"],
+
+"weather key":"9e45d878efd04213b1bfcf7a826375d0",
+"region":"贵阳"，
+"birthday1":{"雷海涛"，"birthday":"r1999-06-27"},
+"birthday2":{"小号","birthday":"r2000-05-15"},
+"love_date":"2021-02-18",
+"note_ch":"爱你就像爱生命"，
+"note_en":"要乖乖的哦 宝贝"
+}
